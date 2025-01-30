@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "description": "Tool to make xChain assets holders snapshots",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Decentraliser",
   "license": "WTFPL",
-  "licenseText": "DO WHAT THE F*** YOU WANT TO PUBLIC LICENSE"
+  "licenseText": "DO WHAT THE F*** YOU WANT TO PUBLIC LICENSE",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
