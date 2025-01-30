@@ -1,5 +1,5 @@
 # XChain Assets Snapshot Maker
-A tool to make snapshots of the current holders of Counterparty assets
+This is a tool to make snapshots of the current holders of a given list of Counterparty assets
 
 # Environment
 Tested on Node v20.17.0
